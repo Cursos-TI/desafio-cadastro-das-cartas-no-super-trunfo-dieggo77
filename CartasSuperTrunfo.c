@@ -18,6 +18,11 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+    //=================================================================================================
+    // Comentario do Programador
+    //Optei por "setar" Estados e Cidades para que ficasse mais intuitivo.
+    
+    //=================================================================================================
     // Variaveis
         // Estado1
             char estado1 [20]= "Amazonas";
@@ -235,12 +240,139 @@ int main() {
                 float h04pib;
                 int h04pontos;
 
+// Fim das Variaveis
+//===========================================================================================
+
+printf ("Seja bem vindo(a) ao Super Trunfo Países.\n");
+printf ("Cadastre as cartas das cidades a seguir.\n ");
+printf ("Preencha todas as Informações,\n no final todos os dados cadastrados serão exibidos.\n");
+printf ("==========Vamos lá!==========\n");
+
+//ESTADO 1
+// CIDADE 1 ESTADO 1
+
+    printf ("Cadastre as cidades do estado %s.\n", estado1);
+        printf ("Cidade %s.\n quanto é a população de %s?\n", a01, a01);
+            scanf ("%f", &a01pop);
+
+        printf ("Cidade %s.\n qual é a área de %s?\n", a01, a01);
+            scanf ("%f", &a01area);
+
+        printf ("Cidade %s.\n qual é o PIB de %s?\n", a01, a01);
+            scanf ("%f", &a01pib);
+
+
+        printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a01, a01);
+            scanf ("%i", &a01pontos);
+
+
+        //printf ("%f \n %f \n %f \n %d \n", a01pop, a01area, a01pib, a01pontos);
+
+// CIDADE 2 ESTADO 1===============================================================================
+        printf ("Cidade %s.\n quanto é a população de %s?\n", a02, a02);
+            scanf ("%f", &a02pop);
+
+        printf ("Cidade %s.\n qual é a área de %s?\n", a02, a02);
+            scanf ("%f", &a02area);
+
+        printf ("Cidade %s.\n qual é o PIB de %s?\n", a02, a02);
+            scanf ("%f", &a02pib);
+
+
+        printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a02, a02);
+            scanf ("%i", &a02pontos);
+
+// CIDADE 3 ESTADO 1===============================================================================
+        printf ("Cidade %s.\n quanto é a população de %s?\n", a03, a03);
+            scanf ("%f", &a03pop);
+
+        printf ("Cidade %s.\n qual é a área de %s?\n", a03, a03);
+            scanf ("%f", &a03area);
+
+        printf ("Cidade %s.\n qual é o PIB de %s?\n", a03, a03);
+            scanf ("%f", &a03pib);
+
+
+        printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a03, a03);
+            scanf ("%i", &a03pontos);
+
+// CIDADE 4 ESTADO 1===============================================================================
+        printf ("Cidade %s.\n quanto é a população de %s?\n", a04, a04);
+            scanf ("%f", &a04pop);
+
+        printf ("Cidade %s.\n qual é a área de %s?\n", a04, a04);
+            scanf ("%f", &a04area);
+
+        printf ("Cidade %s.\n qual é o PIB de %s?\n", a04, a04);
+            scanf ("%f", &a04pib);
+
+
+        printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a04, a04);
+            scanf ("%i", &a04pontos);
 
 
 
+//ESTADO 2 ======================================================================
+// CIDADE 1 ESTADO 2
+
+    printf ("Cadastre as cidades do estado %s.\n", estado2);
+    printf ("Cidade %s.\n quanto é a população de %s?\n", b01, b01);
+        scanf ("%f", &b01pop);
+
+    printf ("Cidade %s.\n qual é a área de %s?\n", a01, a01);
+        scanf ("%f", &a01area);
+
+    printf ("Cidade %s.\n qual é o PIB de %s?\n", a01, a01);
+        scanf ("%f", &a01pib);
 
 
+    printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a01, a01);
+        scanf ("%i", &a01pontos);
 
+
+    //printf ("%f \n %f \n %f \n %d \n", a01pop, a01area, a01pib, a01pontos);
+
+// CIDADE 2 ESTADO 1===============================================================================
+    printf ("Cidade %s.\n quanto é a população de %s?\n", a02, a02);
+        scanf ("%f", &a02pop);
+
+    printf ("Cidade %s.\n qual é a área de %s?\n", a02, a02);
+        scanf ("%f", &a02area);
+
+    printf ("Cidade %s.\n qual é o PIB de %s?\n", a02, a02);
+        scanf ("%f", &a02pib);
+
+
+    printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a02, a02);
+        scanf ("%i", &a02pontos);
+
+// CIDADE 3 ESTADO 1===============================================================================
+    printf ("Cidade %s.\n quanto é a população de %s?\n", a03, a03);
+        scanf ("%f", &a03pop);
+
+    printf ("Cidade %s.\n qual é a área de %s?\n", a03, a03);
+        scanf ("%f", &a03area);
+
+    printf ("Cidade %s.\n qual é o PIB de %s?\n", a03, a03);
+        scanf ("%f", &a03pib);
+
+
+    printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a03, a03);
+        scanf ("%i", &a03pontos);
+
+// CIDADE 4 ESTADO 1===============================================================================
+    printf ("Cidade %s.\n quanto é a população de %s?\n", a04, a04);
+        scanf ("%f", &a04pop);
+
+    printf ("Cidade %s.\n qual é a área de %s?\n", a04, a04);
+        scanf ("%f", &a04area);
+
+    printf ("Cidade %s.\n qual é o PIB de %s?\n", a04, a04);
+        scanf ("%f", &a04pib);
+
+
+    printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", a04, a04);
+        scanf ("%i", &a04pontos);
 
     return 0;
 }
