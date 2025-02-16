@@ -18,5 +18,229 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+    // Variaveis
+        // Estado1
+            char estado1 [20]= "Amazonas";
+
+                char a01 [20]= "Manaus";
+                float a01pop;
+                float a01area;
+                float a01pib;
+                int a01pontos;
+
+                char a02 [20]= "Urucará";
+                float a02pop;
+                float a02area;
+                float a02pib;
+                int a02pontos;
+
+                char a03 [20]= "Apui";
+                float a03pop;
+                float a03area;
+                float a03pib;
+                int a03pontos;
+
+                char a04 [20]= "Tefé";
+                float a04pop;
+                float a04area;
+                float a04pib;
+                int a04pontos;
+
+            // Estado2
+            char estado2 [20]= "Piaui";
+
+                char b01 [20]= "Teresina";
+                float b01pop;
+                float b01area;
+                float b01pib;
+                int b01pontos;
+
+                char b02 [20]= "Floriano";
+                float b02pop;
+                float b02area;
+                float b02pib;
+                int b02pontos;
+                
+                char b03 [20]= "Picos";
+                float b03pop;
+                float b03area;
+                float b03pib;
+                int b03pontos;
+
+                char b04 [20]= "Parnaiba";
+                float b04pop;
+                float b04area;
+                float b04pib;
+                int b04pontos;
+
+                // Estado3
+                char estado3 [20]= "Maranhão";
+
+                char c01 [20]= "São Luiz";
+                float c01pop;
+                float c01area;
+                float c01pib;
+                int c01pontos;
+
+                char c02 [20]= "Caxias";
+                float c02pop;
+                float c02area;
+                float c02pib;
+                int c02pontos;
+                
+                char c03 [20]= "Balsas";
+                float c03pop;
+                float c03area;
+                float c03pib;
+                int c03pontos;
+
+                char c04 [20]= "Colinas";
+                float c04pop;
+                float c04area;
+                float c04pib;
+                int c04pontos;
+
+                // Estado4
+                char estado4 [20]= "Minas Gerais";
+
+                char d01 [20]= "Belo Horizonte";
+                float d01pop;
+                float d01area;
+                float d01pib;
+                int d01pontos;
+
+                char d02 [20]= "Juiz de Fora";
+                float d02pop;
+                float d02area;
+                float d02pib;
+                int d02pontos;
+                
+                char d03 [20]= "Uberlândia";
+                float d03pop;
+                float d03area;
+                float d03pib;
+                int d03pontos;
+
+                char d04 [20]= "Uberaba";
+                float d04pop;
+                float d04area;
+                float d04pib;
+                int d04pontos;
+
+                // Estado5
+                char estado5 [20]= "São Paulo";
+
+                char e01 [20]= "Santos";
+                float e01pop;
+                float e01area;
+                float e01pib;
+                int e01pontos;
+
+                char e02 [20]= "São Vicente";
+                float e02pop;
+                float e02area;
+                float e02pib;
+                int e02pontos;
+                
+                char e03 [20]= "Praia Grande";
+                float e03pop;
+                float e03area;
+                float e03pib;
+                int e03pontos;
+
+                char e04 [20]= "Cubatão";
+                float e04pop;
+                float e04area;
+                float e04pib;
+                int e04pontos;
+
+                // Estado6
+                char estado6 [20]= "Espirito Santo";
+
+                char f01 [20]= "Vitoria";
+                float f01pop;
+                float f01area;
+                float f01pib;
+                int f01pontos;
+
+                char f02 [20]= "Guarapari";
+                float f02pop;
+                float f02area;
+                float f02pib;
+                int f02pontos;
+                
+                char f03 [20]= "Cariacica";
+                float f03pop;
+                float f03area;
+                float f03pib;
+                int f03pontos;
+
+                char f04 [20]= "Colatina";
+                float f04pop;
+                float f04area;
+                float f04pib;
+                int f04pontos;
+
+                // Estado7
+                char estado7 [20]= "Bahia";
+
+                char g01 [20]= "Salvador";
+                float g01pop;
+                float g01area;
+                float g01pib;
+                int g01pontos;
+
+                char g02 [20]= "Xique-Xique";
+                float g02pop;
+                float g02area;
+                float g02pib;
+                int g02pontos;
+                
+                char g03 [20]= "Feira de Santana";
+                float g03pop;
+                float g03area;
+                float g03pib;
+                int g03pontos;
+
+                char g04 [20]= "Ilheus";
+                float g04pop;
+                float g04area;
+                float g04pib;
+                int g04pontos;
+
+                // Estado8
+                char estado8 [20]= "Sergipe";
+
+                char h01 [20]= "Aracaju";
+                float h01pop;
+                float h01area;
+                float h01pib;
+                int h01pontos;
+
+                char h02 [20]= "Itabaianinha";
+                float h02pop;
+                float h02area;
+                float h02pib;
+                int h02pontos;
+                
+                char h03 [20]= "Muribeca";
+                float h03pop;
+                float h03area;
+                float h03pib;
+                int h03pontos;
+
+                char h04 [20]= "Siriri";
+                float h04pop;
+                float h04area;
+                float h04pib;
+                int h04pontos;
+
+
+
+
+
+
+
+
     return 0;
 }
