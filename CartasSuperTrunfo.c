@@ -501,5 +501,431 @@ printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", d04, d04
     scanf ("%i", &d04pontos);
 
 
+
+//ESTADO 5 ======================================================================
+// CIDADE 1 ESTADO 5
+
+printf ("Cadastre as cidades do estado %s.\n", estado5);
+printf ("Cidade %s.\n quanto é a população de %s?\n", e01, e01);
+    scanf ("%f", &e01pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", e01, e01);
+    scanf ("%f", &e01area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", e01, e01);
+    scanf ("%f", &e01pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", e01, e01);
+    scanf ("%i", &e01pontos);
+
+
+
+
+// CIDADE 2 ESTADO 5===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", e02, e02);
+    scanf ("%f", &e02pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", e02, e02);
+    scanf ("%f", &e02area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", e02, e02);
+    scanf ("%f", &e02pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", e02, e02);
+    scanf ("%i", &e02pontos);
+
+// CIDADE 3 ESTADO 5===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", e03, e03);
+    scanf ("%f", &e03pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", e03, e03);
+    scanf ("%f", &e03area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", e03, e03);
+    scanf ("%f", &e03pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", e03, e03);
+    scanf ("%i", &e03pontos);
+
+// CIDADE 4 ESTADO 5===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", e04, e04);
+    scanf ("%f", &e04pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", e04, e04);
+    scanf ("%f", &e04area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", e04, e04);
+    scanf ("%f", &e04pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", e04, e04);
+    scanf ("%i", &e04pontos);
+
+//ESTADO 6 ======================================================================
+// CIDADE 1 ESTADO 6
+
+printf ("Cadastre as cidades do estado %s.\n", estado6);
+printf ("Cidade %s.\n quanto é a população de %s?\n", f01, f01);
+    scanf ("%f", &f01pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", f01, f01);
+    scanf ("%f", &f01area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", f01, f01);
+    scanf ("%f", &f01pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", f01, f01);
+    scanf ("%i", &f01pontos);
+
+
+
+
+// CIDADE 2 ESTADO 6===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", f02, f02);
+    scanf ("%f", &f02pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", f02, f02);
+    scanf ("%f", &f02area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", f02, f02);
+    scanf ("%f", &f02pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", f02, f02);
+    scanf ("%i", &f02pontos);
+
+// CIDADE 3 ESTADO 6===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", f03, f03);
+    scanf ("%f", &f03pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", f03, f03);
+    scanf ("%f", &f03area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", f03, f03);
+    scanf ("%f", &f03pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", f03, f03);
+    scanf ("%i", &f03pontos);
+
+// CIDADE 4 ESTADO 6===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", f04, f04);
+    scanf ("%f", &f04pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", f04, f04);
+    scanf ("%f", &f04area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", f04, f04);
+    scanf ("%f", &f04pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", f04, f04);
+    scanf ("%i", &f04pontos);
+
+
+//ESTADO 7 ======================================================================
+// CIDADE 1 ESTADO 7
+
+printf ("Cadastre as cidades do estado %s.\n", estado7);
+printf ("Cidade %s.\n quanto é a população de %s?\n", g01, g01);
+    scanf ("%f", &g01pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", g01, g01);
+    scanf ("%f", &g01area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", g01, g01);
+    scanf ("%f", &g01pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", g01, g01);
+    scanf ("%i", &g01pontos);
+
+
+
+
+// CIDADE 2 ESTADO 7===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", g02, g02);
+    scanf ("%f", &g02pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", g02, g02);
+    scanf ("%f", &g02area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", g02, g02);
+    scanf ("%f", &g02pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", g02, g02);
+    scanf ("%i", &g02pontos);
+
+// CIDADE 3 ESTADO 7===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", g03, g03);
+    scanf ("%f", &g03pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", g03, g03);
+    scanf ("%f", &g03area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", g03, g03);
+    scanf ("%f", &g03pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", g03, g03);
+    scanf ("%i", &g03pontos);
+
+// CIDADE 4 ESTADO 7===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", g04, g04);
+    scanf ("%f", &g04pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", g04, g04);
+    scanf ("%f", &g04area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", g04, g04);
+    scanf ("%f", &g04pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", g04, g04);
+    scanf ("%i", &g04pontos);
+
+
+//ESTADO 8 ======================================================================
+// CIDADE 1 ESTADO 8
+
+printf ("Cadastre as cidades do estado %s.\n", estado8);
+printf ("Cidade %s.\n quanto é a população de %s?\n", h01, h01);
+    scanf ("%f", &h01pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", h01, h01);
+    scanf ("%f", &h01area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", h01, h01);
+    scanf ("%f", &h01pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", h01, h01);
+    scanf ("%i", &h01pontos);
+
+
+
+
+// CIDADE 2 ESTADO 8===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", h02, h02);
+    scanf ("%f", &h02pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", h02, h02);
+    scanf ("%f", &h02area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", h02, h02);
+    scanf ("%f", &h02pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", h02, h02);
+    scanf ("%i", &h02pontos);
+
+// CIDADE 3 ESTADO 8===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", h03, h03);
+    scanf ("%f", &h03pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", h03, h03);
+    scanf ("%f", &h03area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", h03, h03);
+    scanf ("%f", &h03pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", h03, h03);
+    scanf ("%i", &h03pontos);
+
+// CIDADE 4 ESTADO 8===============================================================================
+printf ("Cidade %s.\n quanto é a população de %s?\n", h04, h04);
+    scanf ("%f", &h04pop);
+
+printf ("Cidade %s.\n qual é a área de %s?\n", h04, h04);
+    scanf ("%f", &h04area);
+
+printf ("Cidade %s.\n qual é o PIB de %s?\n", h04, h04);
+    scanf ("%f", &h04pib);
+
+
+printf ("Cidade %s.\n Qual é o numero de Pontos Turísticos de %s?\n", h04, h04);
+    scanf ("%i", &h04pontos);
+
+//FIM DO CADASTRO DAS CARTAS=========================================================================
+
+//EXIBINDO TODAS AS CARTAS==========================================================================
+
+printf ("Exibindo todas as cartas cadatradas.\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado1, a01, a01pop, a01area, a01pib, a01pontos);
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado1, a02, a02pop, a02area, a02pib, a02pontos);
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado1, a03, a03pop, a03area, a03pib, a03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado1, a04, a04pop, a04area, a04pib, a04pontos);
+
+//estado 2
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado2, b01, b01pop, b01area, b01pib, b01pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado2, b02, b02pop, b02area, b02pib, b02pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado2, b03, b03pop, b03area, b03pib, b03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado2, b04, b04pop, b04area, b04pib, b04pontos);
+
+//estado 3
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado3, c01, c01pop, c01area, c01pib, c01pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado3, c02, c02pop, c02area, c02pib, c02pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado3, c03, c03pop, c03area, c03pib, c03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado3, c04, c04pop, c04area, c04pib, c04pontos);
+
+//estado 4
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado4, d01, d01pop, d01area, d01pib, d01pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado4, d02, d02pop, d02area, d02pib, d02pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado4, d03, d03pop, d03area, d03pib, d03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado4, d04, d04pop, d04area, d04pib, d04pontos);
+
+
+
+//estado 5
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado5, e01, e01pop, e01area, e01pib, e01pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado5, e02, e02pop, e02area, e02pib, e02pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado5, e03, e03pop, e03area, e03pib, e03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado5, e04, e04pop, e04area, e04pib, e04pontos);
+
+
+//estado 6
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado6, f01, f01pop, f01area, f01pib, f01pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado6, f02, f02pop, f02area, f02pib, f02pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado6, f03, f03pop, f03area, f03pib, f03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado6, f04, f04pop, f04area, f04pib, f04pontos);
+
+
+
+//estado 7
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado7, g01, g01pop, g01area, g01pib, g01pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado7, g02, g02pop, g02area, g02pib, g02pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado7, g03, g03pop, g03area, g03pib, g03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado7, g04, g04pop, g04area, g04pib, g04pontos);
+
+
+//estado 8
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado8, h01, h01pop, h01area, h01pib, h01pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado8, h02, h02pop, h02area, h02pib, h02pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado8, h03, h03pop, h03area, h03pib, h03pontos);
+
+
+printf ("========================\n");
+
+printf ("Estado %s \n========================\nCidade %s.\nPopulação: %f.\nÁrea: %f.\nPIB da cidade: %f.\nPontos Turísticos: %i.", estado8, h04, h04pop, h04area, h04pib, h04pontos);
+
+
     return 0;
 }
